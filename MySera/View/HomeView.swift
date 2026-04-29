@@ -36,6 +36,9 @@ struct HomeView: View {
                     .padding(.top, 20)
                     .padding(.horizontal, 20)
                     
+                    DailyAffirmationCard(text: viewModel.dailyAffirmation)
+                        .padding(.horizontal, 20)
+                    
                     // Su Takibi Kartı ($viewModel kullanarak bind ediyoruz)
                     WaterTrackerCard(waterConsumed: $viewModel.waterConsumed, waterGoal: viewModel.waterGoal)
                         .padding(.horizontal, 20)
@@ -120,6 +123,32 @@ struct WaterTrackerCard: View {
         .background(Color.white.opacity(0.7))
         .cornerRadius(20)
         .shadow(color: Color.black.opacity(0.03), radius: 10, x: 0, y: 5)
+    }
+}
+
+struct DailyAffirmationCard: View {
+    let text: String
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            Text("Gunun Sozu")
+                .font(.system(size: 13, weight: .medium))
+                .foregroundStyle(.secondary)
+            
+            Text("\"\(text)\"")
+                .font(.custom("Georgia", size: 19))
+                .italic()
+                .lineSpacing(6)
+                .foregroundStyle(.primary.opacity(0.9))
+        }
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .padding(18)
+        .background(.ultraThinMaterial)
+        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+        .overlay(
+            RoundedRectangle(cornerRadius: 20, style: .continuous)
+                .stroke(Color.white.opacity(0.25), lineWidth: 1)
+        )
     }
 }
 

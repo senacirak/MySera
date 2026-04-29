@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D8DD144F2F9D213100340EA0 /* Affirmations.json in Resources */ = {isa = PBXBuildFile; fileRef = D8DD144E2F9D213100340EA0 /* Affirmations.json */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D80C30122F859DF300030577 /* MySera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MySera.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8DD144E2F9D213100340EA0 /* Affirmations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Affirmations.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		D80C30092F859DF300030577 = {
 			isa = PBXGroup;
 			children = (
+				D8DD144E2F9D213100340EA0 /* Affirmations.json */,
 				D80C30142F859DF300030577 /* MySera */,
 				D80C30132F859DF300030577 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8DD144F2F9D213100340EA0 /* Affirmations.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

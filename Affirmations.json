@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "text": "Derin bir nefes al ve omuzlarını serbest bırak.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 2,
+    "text": "Sadece şu anki nefesine odaklan; o her zaman burada.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 3,
+    "text": "Dişlerini sıktığını fark et ve çeneni gevşet.",
+    "category": "Stres"
+  },
+  {
+    "id": 4,
+    "text": "Ayaklarının yere bastığını hisset. Buradasın, güvendesin.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 5,
+    "text": "Avuç içlerini aç ve gerginliğin parmak uçlarından akıp gitmesine izin ver.",
+    "category": "Huzur"
+  },
+  {
+    "id": 6,
+    "text": "4 saniye nefes al, 4 saniye tut, 4 saniye ver.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 7,
+    "text": "Bedenindeki gergin bir noktayı bul ve oraya 'yumuşa' de.",
+    "category": "Stres"
+  },
+  {
+    "id": 8,
+    "text": "Bir bardak su içmek için harika bir an.",
+    "category": "Huzur"
+  },
+  {
+    "id": 9,
+    "text": "Gözlerini 10 saniyeliğine kapat ve karanlığın sakinliğini hisset.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 10,
+    "text": "Doğrularak otur; akciğerlerine yer aç.",
+    "category": "Huzur"
+  },
+  {
+    "id": 11,
+    "text": "Bu duygu bir bulut gibi; sadece geçip gitmesini izle.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 12,
+    "text": "Kontrol edemediğin şeyler için kendini suçlama.",
+    "category": "Stres"
+  },
+  {
+    "id": 13,
+    "text": "Zihnindeki her düşünce bir gerçek değil, sadece bir veri.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 14,
+    "text": "Şu an hissettiklerin sonsuza kadar sürmeyecek.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 15,
+    "text": "Her şeyi aynı anda çözmek zorunda değilsin.",
+    "category": "Stres"
+  },
+  {
+    "id": 16,
+    "text": "'Bilmiyorum' demek de bir cevaptır ve şu an için yeterlidir.",
+    "category": "Huzur"
+  },
+  {
+    "id": 17,
+    "text": "Fırtınanın ortasında bile içindeki sakin limana dönebilirsin.",
+    "category": "Güç"
+  },
+  {
+    "id": 18,
+    "text": "Bugün sadece 'yeterli' olmak harika bir başarı.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 19,
+    "text": "Gelecek henüz gelmedi, geçmiş ise bitti. Sadece buradasın.",
+    "category": "An"
+  },
+  {
+    "id": 20,
+    "text": "Planlar değişebilir, sen hala değerlisin.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 21,
+    "text": "Kendine karşı, en yakın arkadaşına olduğun kadar nazik ol.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 22,
+    "text": "Hata yapmak sistemin bir parçası, dünyanın sonu değil.",
+    "category": "Güç"
+  },
+  {
+    "id": 23,
+    "text": "Dinlenmek bir lüks değil, temel bir ihtiyaçtır.",
+    "category": "Huzur"
+  },
+  {
+    "id": 24,
+    "text": "Bugün elinden gelenin en iyisi bu kadarsa, bu yeterlidir.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 25,
+    "text": "Kendine biraz alan tanı; her şeyi optimize etmek zorunda değilsin.",
+    "category": "Stres"
+  },
+  {
+    "id": 26,
+    "text": "Bir mola ver. Dünya sen durunca durmayacak, ama sen dinleneceksin.",
+    "category": "Huzur"
+  },
+  {
+    "id": 27,
+    "text": "Duyguların seni tanımlamaz, sadece misafirler.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 28,
+    "text": "'Hayır' demek, kendine 'evet' demektir.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 29,
+    "text": "Küçük adımlar, büyük sıçrayışlardan daha sürdürülebilirdir.",
+    "category": "An"
+  },
+  {
+    "id": 30,
+    "text": "İçindeki o sesi sustur ve sadece var olmanın tadını çıkar.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 31,
+    "text": "Sadece bir sonraki adıma odaklan.",
+    "category": "An"
+  },
+  {
+    "id": 32,
+    "text": "Acele etmene gerek yok, zaman senin tarafında.",
+    "category": "Stres"
+  },
+  {
+    "id": 33,
+    "text": "Zihnin bir bahçe; bugün hangi çiçeği sulayacaksın?",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 34,
+    "text": "Kaosu değil, nefesini dinle.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 35,
+    "text": "Bugün sadece bir gün, hayatın tamamı değil.",
+    "category": "Bakış Açısı"
+  },
+  {
+    "id": 36,
+    "text": "Endişelenmek, henüz olmayan bir sorun için vergi ödemektir.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 37,
+    "text": "Bakış açını biraz değiştir; resim de değişecek.",
+    "category": "Bakış Açısı"
+  },
+  {
+    "id": 38,
+    "text": "Her şey kontrol altında olmak zorunda değil.",
+    "category": "Stres"
+  },
+  {
+    "id": 39,
+    "text": "Kendi hızında ilerle, kimseyle yarışmıyorsun.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 40,
+    "text": "Zihnindeki gürültüyü bir kenara bırak, sessizliği fark et.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 41,
+    "text": "Daha önce de zor anlar yaşadın ve hepsini atlattın.",
+    "category": "Güç"
+  },
+  {
+    "id": 42,
+    "text": "Bu anksiyete dalgası kıyıya vuracak ve çekilecek.",
+    "category": "Anksiyete"
+  },
+  {
+    "id": 43,
+    "text": "Güçlü olmak, her zaman dik durmak değil; bazen sadece devam etmektir.",
+    "category": "Güç"
+  },
+  {
+    "id": 44,
+    "text": "Zihnindeki engeller, gerçek hayattakilerden daha büyüktür.",
+    "category": "Bakış Açısı"
+  },
+  {
+    "id": 45,
+    "text": "Bir şeylerin ters gitmesi, senin yanlış yaptığın anlamına gelmez.",
+    "category": "Güç"
+  },
+  {
+    "id": 46,
+    "text": "Sakin kalmak da bir eylemdir.",
+    "category": "Huzur"
+  },
+  {
+    "id": 47,
+    "text": "Bugün başardığın en küçük şeyi hatırla ve onunla gurur duy.",
+    "category": "Öz Şefkat"
+  },
+  {
+    "id": 48,
+    "text": "Kontrol edebileceğin tek şey: Şu anki tepkin.",
+    "category": "Farkındalık"
+  },
+  {
+    "id": 49,
+    "text": "Her nefes alış, yeniden başlamak için bir fırsattır.",
+    "category": "An"
+  },
+  {
+    "id": 50,
+    "text": "Sen bu duygudan çok daha büyüksün.",
+    "category": "Güç"
+  }
+]

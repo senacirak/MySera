@@ -27,6 +27,9 @@ struct MySeraApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .task {
+                    _ = try? await AffirmationNotificationManager.shared.requestPermission()
+                }
         }
         .modelContainer(sharedModelContainer)
     }

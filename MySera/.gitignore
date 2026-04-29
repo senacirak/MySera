@@ -1,0 +1,84 @@
+# ──────────────────────────────────────────────
+#  Xcode
+# ──────────────────────────────────────────────
+
+# Build artifacts
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Xcode workspace & scheme settings that should NOT be shared
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Playground-related
+timeline.xctimeline
+playground.xcworkspace
+
+# ──────────────────────────────────────────────
+#  Swift Package Manager
+# ──────────────────────────────────────────────
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# ──────────────────────────────────────────────
+#  CocoaPods  (if used in the future)
+# ──────────────────────────────────────────────
+Pods/
+*.xcworkspace
+
+# Uncomment if you prefer to keep Podfile.lock:
+# !Podfile.lock
+
+# ──────────────────────────────────────────────
+#  Carthage  (if used in the future)
+# ──────────────────────────────────────────────
+Carthage/Build/
+
+# ──────────────────────────────────────────────
+#  fastlane  (if used in the future)
+# ──────────────────────────────────────────────
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# ──────────────────────────────────────────────
+#  macOS
+# ──────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ──────────────────────────────────────────────
+#  Sensitive / Local Config
+# ──────────────────────────────────────────────
+*.env
+*.env.local
+Secrets.swift
+Secrets.plist
+GoogleService-Info.plist
+
+# ──────────────────────────────────────────────
+#  Misc
+# ──────────────────────────────────────────────
+*.orig
+*.log
